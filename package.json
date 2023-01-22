@@ -1,0 +1,19 @@
+{
+  "name": "orderlock",
+  "version": "0.0.1",
+  "description": "Create and Execute OrderLock Transactions on Bitcoin",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pow-co/orderlock.git"
+  },
+  "author": "powco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pow-co/orderlock/issues"
+  },
+  "homepage": "https://github.com/pow-co/orderlock#readme"
+}
