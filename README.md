@@ -1,4 +1,8 @@
 
+# OrderLock
+
+[orderlock package on npmjs.com](https://npmjs.com/package/orderlock)
+
 ### Installation
 
 ```
